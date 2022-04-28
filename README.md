@@ -6,7 +6,7 @@ Hemos analizado una dataset que contiene las notas de una clase para poder estud
 
 El dataset que teniamos, contiene solo 16 datos, asi que hemos buscado otro por kaggle que tenga mas calificaciones para poder realizar el mismo estudio con mas datos.
 
-La direccion del dataset de Kaggle que hemos utilizado es la siguiente: https://www.kaggle.com/datasets/kerboute/students-marks-exam-data
+La direccion del dataset de Kaggle que hemos utilizado es la siguiente: [Kaggle](https://www.kaggle.com/datasets/kerboute/students-marks-exam-data)
 
 ### JMPEstadisticas
 
