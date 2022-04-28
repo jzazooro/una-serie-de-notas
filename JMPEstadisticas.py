@@ -53,7 +53,7 @@ class JMPEstadisticas:
             par = True
 
         if par:
-            rango = (n / 2);
+            rango = (n / 2)
             print("RANGO = "+str(rango))
             rangoPython = rango-1
             valor1 = caracteristica[rangoPython]
